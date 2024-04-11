@@ -263,7 +263,7 @@ export const benefits = [
   {
     id: "2",
     title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    text: "Connect with Reverb from anywhere, on any device, making it more accessible and convenient.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
